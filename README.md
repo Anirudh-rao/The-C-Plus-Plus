@@ -1,12 +1,9 @@
-# The-C-Plus-Plus-Programming-
-This repository covers the overall basic to advanced topics in C++.
+# The C ++ Programming
 
-To run any c++ file go to folder where you have the code and type the below command
+This repository convers basics concepts related to C and C++ Programming.
 
-```
-g++ <FILE_NAME.cpp> -o <OUTPUT FILE NAME>
 
-```
+More to be updated soon.🚧
 
 
 
