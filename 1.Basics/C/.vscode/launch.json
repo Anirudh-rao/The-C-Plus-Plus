@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/rookr/Documents/The-C-Plus-Plus/1.Basics/C",
+      "program": "/Users/rookr/Documents/The-C-Plus-Plus/1.Basics/C/build/Debug/outDebug"
+    }
+  ]
+}
